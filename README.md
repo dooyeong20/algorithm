@@ -4,6 +4,10 @@
 
 ## LeetCode
 
+- Easy
+
+  1. [21_Merge_Two_Sorted_Lists.ts](https://leetcode.com/problems/merge-two-sorted-lists/)
+
 - Medium
 
   1. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
