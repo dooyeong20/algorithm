@@ -1,0 +1,19 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "알고리즘 공부 &amp; 문제 풀이",
+  "main": "index.js",
+  "scripts": {
+    "rename": "./script/replaceFileName.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooyeong20/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dooyeong20/algorithm/issues"
+  },
+  "homepage": "https://github.com/dooyeong20/algorithm#readme"
+}
